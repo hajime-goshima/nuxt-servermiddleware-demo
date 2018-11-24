@@ -1,6 +1,8 @@
 # nuxt-servermiddleware-demo
 
-> My exceptional Nuxt.js project
+> Nuxt serverMiddlewareを使ってcors回避するデモ
+
+<img width="1241" alt="2018-11-24 23 49 18" src="https://user-images.githubusercontent.com/13103747/48969568-c0079e80-f043-11e8-8d13-cf4c8a37c029.png">
 
 ## Build Setup
 
